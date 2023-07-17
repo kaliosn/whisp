@@ -1,0 +1,161 @@
+/* Section size */
+.size {
+    height: 450px;
+    padding: 0 10px;
+}
+
+.sizeup {
+    height: 500px;
+    padding: 0 5px;
+}
+
+.sizedown {
+    padding: 50px 25px;
+}
+
+/* color */
+
+.purplecol {
+    color: #8a2be2;
+}
+
+.blackcol {
+    color: #000;
+}
+
+.whitecol {
+    color: white;
+}
+
+/* link decoration */
+
+a:link {
+    text-decoration: none;
+}
+
+/* background */
+.bgblack {
+    background-color: #000;
+}
+
+.bgpurple {
+    background-color: #8a2be2;
+}
+/* buttons */
+
+.btnwhite {
+    background-color: white;
+    color: black;
+    width: 150px;
+    border: none;
+}
+
+.btnpurple {
+    background-color: #8a2be2;
+    color: white;
+    width: 150px;
+    border: none;
+}
+
+.btnbg {
+    background-color: #000;
+    color: white;
+    width: 150px;
+    border: none;
+}
+
+/* rotate */
+
+.turnVert {
+    transform: rotate(90deg);
+}
+
+.unturnVert {
+    transform: rotate(-90deg);
+}
+
+.begin {
+    top: 50%;
+    left: -20%;
+}
+
+.discoleft {
+ top: 30%;
+ left: -05%;
+}
+
+.discoright {
+    top: 30%;
+    right: 15%;
+   }
+
+
+/* font weight */
+
+.fm-1 {
+    font-size: 6rem;
+}
+
+.fm-2 {
+    font-size: 5rem;
+}
+
+.fm-3 {
+    font-size: 4rem;
+}
+
+.fm-4 {
+    font-size: 0.75rem;
+}
+
+/* course part */
+
+.bigcourse {
+    border: solid 2px;
+}
+
+.number {
+    background-color: #ffffff;
+}
+
+.linecourse {
+    border-top: solid 2px;
+    width: 50%; 
+    margin: 0 25% 0 25%;
+    color: #8a2be2;
+    opacity: 1.2;
+}
+
+
+.bgcov {
+    background-image: url('../img/w1.jpeg');
+    background-size: cover;
+    color: #ffffff;
+ }
+
+ .box {
+    width: 250px;
+    height: 300px;
+ }
+
+ .vid {
+    width: 750px;
+    height: 500px;
+    opacity: 0.7;
+ }
+
+ .iplay {
+    font-size: 4rem;
+ }
+
+ .imgpop {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+/* header part */
+
+.edition {
+    border: solid 2px white;
+}
